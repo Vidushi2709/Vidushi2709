@@ -21,6 +21,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vidushi2709&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4)
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
