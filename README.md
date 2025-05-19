@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on ML, DL, and CV models.<br>👯 I’m looking to collaborate on machine learning and deep learning projects.<br>🤝 I’m looking for help with optimizing model performance and dataset handling.<br>🌱 I’m currently learning advanced computer vision techniques and efficient model deployment.<br>💬 Ask me about ML, DL, CV, Python, Java, and DSA.<br>⚡ Fun fact: The more I debug, the more I realize I was the bug all along.
+💫 About Me:
+🔭 Currently wrangling pixels (CV), words (NLP), and matrices (ML/DL) into submission — sometimes they fight back.
+👯 Always up for teaming up on ML, DL, CV, or NLP projects — especially the weird, ambitious kind.
+🤝 I’m seeking allies in the quest to tame messy datasets and make models less dramatic (aka overfit less).
+🌱 Learning the dark arts of efficient model deployment, transformers, and making machines understand sarcasm.
+💬 Talk to me about ML, DL, CV, NLP, Python, Java, DSA — or just send cat memes, I respond to both.
+⚡ Fun fact: Every time I debug, I fix the code and uncover deep truths about myself.
 
 
 ## 🌐 Socials:
