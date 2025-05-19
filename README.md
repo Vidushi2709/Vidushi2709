@@ -1,10 +1,11 @@
-💫 About Me:
-🔭 Currently wrangling pixels (CV), words (NLP), and matrices (ML/DL) into submission — sometimes they fight back.
-👯 Always up for teaming up on ML, DL, CV, or NLP projects — especially the weird, ambitious kind.
-🤝 I’m seeking allies in the quest to tame messy datasets and make models less dramatic (aka overfit less).
-🌱 Learning the dark arts of efficient model deployment, transformers, and making machines understand sarcasm.
-💬 Talk to me about ML, DL, CV, NLP, Python, Java, DSA — or just send cat memes, I respond to both.
-⚡ Fun fact: Every time I debug, I fix the code and uncover deep truths about myself.
+## 💫 About Me
+
+🔭 Currently wrangling pixels (CV), words (NLP), and matrices (ML/DL) into submission — sometimes they fight back.  
+👯 Always up for teaming up on ML, DL, CV, or NLP projects — especially the weird, ambitious kind.  
+🤝 I’m seeking allies in the quest to tame messy datasets and make models less dramatic (aka overfit less).  
+🌱 Learning the dark arts of efficient model deployment, transformers, and making machines understand sarcasm.  
+💬 Talk to me about ML, DL, CV, NLP, Python, Java, DSA — or just send cat memes, I respond to both.  
+⚡ **Fun fact:** Every time I debug, I fix the code *and* uncover deep truths about myself.
 
 
 ## 🌐 Socials:
