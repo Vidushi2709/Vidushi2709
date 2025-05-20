@@ -1,3 +1,5 @@
+![My Photo](vin_repo.png)
+
 ## 💫 About Me
 
 🔭 Currently wrangling pixels (CV), words (NLP), and matrices (ML/DL) into submission — sometimes they fight back.  
