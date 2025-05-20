@@ -1,4 +1,4 @@
-![My Photo](vin_repo.png)
+<img src="./vin_repo.png" alt="Vin Repo" width="400"/>
 
 ## 💫 About Me
 
