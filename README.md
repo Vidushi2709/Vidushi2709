@@ -71,4 +71,8 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Vidushi2709&color=yellow)
 
+<div style="text-align: center;">
+  <img src="octocat-1747774745106.png" alt="Octocat" style="display: block; margin: 0 auto; width: 500px;" />
+</div>
+
 ---
