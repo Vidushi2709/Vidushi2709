@@ -1,10 +1,9 @@
 <div align="center">
-
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=db7093&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vidushi!;Welcome+to+my+GitHub+👩‍💻;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=3000&color=db7093&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Vidushi!" alt="Typing SVG" />
   </h1>
-
 </div>
+
 
 <div align="center">
 
