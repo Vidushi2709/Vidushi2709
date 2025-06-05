@@ -62,6 +62,12 @@
 
 ---
 
+### Coding Activity Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Vidushi2709&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidushi2709&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
