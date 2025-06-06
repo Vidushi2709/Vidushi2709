@@ -65,7 +65,6 @@
 ### 🖥️ My Weekly Coding Stats
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinvin&layout=compact&theme=dracula)
 
-
 ---
 
 # 📊 GitHub Stats:
