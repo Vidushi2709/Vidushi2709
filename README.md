@@ -62,9 +62,9 @@
 
 ---
 
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 🖥️ My Weekly Coding Stats
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinvin&layout=compact&theme=dracula)
+
 
 ---
 
