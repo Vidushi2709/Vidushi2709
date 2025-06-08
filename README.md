@@ -63,7 +63,7 @@
 ---
 
 ### 🖥️ My Weekly Coding Stats
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vidushi2709&layout=compact&theme=dracula)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinvin&layout=compact&theme=dracula)
 
 ---
 
