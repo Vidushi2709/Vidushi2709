@@ -39,8 +39,6 @@
 
 </div>
 
-
-
 ---
 # <img src="https://private-user-images.githubusercontent.com/74038190/243199546-94cc4424-9251-42ae-8782-92465d0a0043.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDc3NzM2ODEsIm5iZiI6MTc0Nzc3MzM4MSwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDYtOTRjYzQ0MjQtOTI1MS00MmFlLTg3ODItOTI0NjVkMGEwMDQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTIwVDIwMzYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxMWUyMzI3NWUwMGY1NTZiZGU0NzMxNzRmYWY3NThiMWMzNGJjN2VlZjJhMDg5ZWFiOWIwOGFjM2U0YTI5YjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9CbhijPFMUIvWnXh_lWz-tt2CpkFVN3nag-T7YFhZ4g" alt="Tech Stack Animation" height="40" style="vertical-align: middle; margin-right: 10px;" /> Tech Stack
 
@@ -69,7 +67,6 @@
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Vidushi2709&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidushi2709&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
