@@ -65,11 +65,6 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Vidushi2709&theme=dark&hide_border=false)<br/>
-
----
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Vidushi2709&color=yellow)
 
 <div style="text-align: center;">
