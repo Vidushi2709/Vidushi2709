@@ -5,4 +5,4 @@ I work with **LLMs**, **Deep Learning**, and **Machine Learning** — and yes, I
 
 I like turning ideas into systems: from gradients to decisions, from prompts to behavior ✨🎀
 
-When I’m not debugging emotions out of models, I’m probably folding paper cranes or chasing plot twists ₍˶ˊᵕˋ˵₎💌
+When I’m not debugging emotions out of models, I’m probably painting my nails, folding paper cranes, or chasing plot twists ₍˶ˊᵕˋ˵₎💌
