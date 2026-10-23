@@ -1,3 +1,1 @@
-Hi, I'm Vidushi (Vin). 
-I enjoy building AI systems and exploring everything from machine learning and deep learning to LLMs and agentic workflows. 
-I'm usually experimenting with new ideas, reading research papers, or building something just to see how it works.
+Hi, I'm Vidushi (Vin). I make AI systems measurable: evals, tracing and guardrails for agents. Lately I've been finding out how easily those measurements break, and writing up what I find.
